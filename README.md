@@ -20,11 +20,6 @@
 
 热爱设计、二次元和游戏。<br>慢热社恐，喜欢可爱温柔的事物。常玩 CSGO 和燕云十六声。<br>卑微打工人，在线卑微~ 😌
 
-### 👾 个人信息
-- **个人主页**: [https://lxixi.top](https://lxixi.top)
-- **IP**: 河南
-- **职业**: 设计师
-
 ### 🔗 Link Start
 - **邮箱**: [lihongxi1314@gmail.com](mailto:lihongxi1314@gmail.com)
 - **GitHub**: [https://github.com/ShallowThoughts](https://github.com/ShallowThoughts)
@@ -32,14 +27,8 @@
 - **图床**: [https://image.lxixi.top](https://image.lxixi.top)
 - **短链接**: [https://url.lxixi.top](https://url.lxixi.top)
 - **API接口**: [https://api.lxixi.top](https://api.lxixi.top)
-
+- **AI助手**: [https://ai.lxixi.top](https://ai.lxixi.top)
 ### 💞 社交统计
-
-[![GitHub统计](https://stats.justsong.cn/api/github?username=ShallowThoughts&theme=dark&lang=zh-CN)](https://github.com/ShallowThoughts)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShallowThoughts&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
 <div align="center">
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ShallowThoughts&custom_title=ShallowThoughts的统计数据&theme=react&show_icons=true&hide_border=true&count_private=true" />
