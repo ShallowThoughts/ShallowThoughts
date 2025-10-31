@@ -26,12 +26,6 @@
 [![GitHub统计](https://stats.justsong.cn/api/github?username=ShallowThoughts&theme=dark&lang=zh-CN)](https://github.com/ShallowThoughts)
 <br>
 
-### 🍭 GitHub 开源项目
-
-*(项目正在酝酿中，敬请期待~)*
-
-<br>
-
 ### 🔥 GitHub 活跃度
 
 ![ShallowThoughts's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShallowThoughts&custom_title=ShallowThoughts的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
