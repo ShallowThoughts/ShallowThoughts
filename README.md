@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?label=Role&message=Designer&color=pink"/>
   <img src="https://img.shields.io/static/v1?label=Location&message=Henan&color=orange"/>
   <a href="https://lxixi.top"><img src="https://img.shields.io/static/v1?label=Site&message=Personal&color=blue"/></a>
-  <a href="https://t.me/convention520"><img src="https://img.shields.io/static/v1?label=Chat&message=Telegram&color=purple"/></a>
+  <a href="https://t.me/RiverXILee"><img src="https://img.shields.io/static/v1?label=Chat&message=Telegram&color=purple"/></a>
 </p>
 <br>
 
