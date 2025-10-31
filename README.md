@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是ShallowThoughts;欢迎来到我的%20GitHub!;除了吃就是睡~&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是ShallowThoughts;欢迎来到我的%20GitHub!;除了吃就是睡~;慢热社恐，爱CSGO和二次元&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Role&message=Designer&color=pink"/>
   <img src="https://img.shields.io/static/v1?label=Location&message=Henan&color=orange"/>
-  <a href="https://lxixi.top"><img src="https://img.shields.io/static/v1?label=Site&message=Personal&color=blue"/></a>
-  <a href="https://t.me/RiverXILee"><img src="https://img.shields.io/static/v1?label=Chat&message=Telegram&color=purple"/></a>
+  <a href="https://lxixi.top"><img src="https://img.shields.io/badge/Site-个人博客-blue"/></a>
+  <a href="https://t.me/convention520"><img src="https://img.shields.io/badge/Chat-Telegram-purple"/></a>
 </p>
 <br>
 
@@ -18,17 +18,47 @@
 
 ## 🌸 设计师—ShallowThoughts
 
-热爱设计、二次元和游戏。<br>慢热社恐，喜欢可爱温柔的事物。常玩 CSGO 和燕云十六声。
-<br>
+热爱设计、二次元和游戏。<br>慢热社恐，喜欢可爱温柔的事物。常玩 CSGO 和燕云十六声。<br>卑微打工人，在线卑微~ 😌
 
-### 💞 我的社交统计
+### 👾 个人信息
+- **个人主页**: [https://lxixi.top](https://lxixi.top)
+- **IP**: 河南
+- **职业**: 设计师
+
+### 🔗 Link Start
+- **邮箱**: [lihongxi1314@gmail.com](mailto:lihongxi1314@gmail.com)
+- **GitHub**: [https://github.com/ShallowThoughts](https://github.com/ShallowThoughts)
+- **Telegram**: [https://t.me/convention520](https://t.me/convention520)
+- **图床**: [https://image.lxixi.top](https://image.lxixi.top)
+- **短链接**: [https://url.lxixi.top](https://url.lxixi.top)
+- **API接口**: [https://api.lxixi.top](https://api.lxixi.top)
+
+### 💞 社交统计
 
 [![GitHub统计](https://stats.justsong.cn/api/github?username=ShallowThoughts&theme=dark&lang=zh-CN)](https://github.com/ShallowThoughts)
-<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShallowThoughts&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ShallowThoughts&custom_title=ShallowThoughts的统计数据&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowThoughts&layout=compact&theme=react&show_icons=true&hide_border=true&langs_count=8" />
+</div>
+
+### 技能加点
+● 在线
+
+<div align="center">
+二次元 99% ✨ • 睡觉 70% 😴 • 吃饭 70% 🍜 • 打游戏 40% 🎮 • 工作 10% 💼 • 音乐 99% 🎵 • 摆烂 99% 🛋️ • 抽象 80% 🤪 • 宅 70% 🏠
+</div>
 
 ### 🔥 GitHub 活跃度
 
-![ShallowThoughts's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShallowThoughts&custom_title=ShallowThoughts的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowThoughts&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![](https://github-readme-activity-graph.vercel.app/graph?username=ShallowThoughts&theme=dracula&custom_title=ShallowThoughts的心电图&radius=10)
-<br>
+![ShallowThoughts's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShallowThoughts&theme=dracula&custom_title=ShallowThoughts的心电图&radius=10)
+
+---
+
+<div align="center">
+  <p>感谢你的访问！如果喜欢，点个Star支持下吧~ 🌸</p>
+</div>
