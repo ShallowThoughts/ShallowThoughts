@@ -1,9 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://github.com/ShallowThoughts">🌸 ShallowThoughts GitHub 首页</a></h1>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是ShallowThoughts;欢迎来到我的%20GitHub!;除了吃就是睡~;慢热社恐，爱CSGO和二次元&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+  <h1 align="center"><a href="https://github.com/ShallowThoughts">🌸 RiverXILee GitHub 首页</a></h1>
 </p>
 
 <p align="center">
