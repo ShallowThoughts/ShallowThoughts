@@ -31,13 +31,6 @@
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowThoughts&layout=compact&theme=react&show_icons=true&hide_border=true&langs_count=8" />
 </div>
 
-### 技能加点
-● 在线
-
-<div align="center">
-二次元 99% ✨ • 睡觉 70% 😴 • 吃饭 70% 🍜 • 打游戏 40% 🎮 • 工作 10% 💼 • 音乐 99% 🎵 • 摆烂 99% 🛋️ • 抽象 80% 🤪 • 宅 70% 🏠
-</div>
-
 ### 🔥 GitHub 活跃度
 
 ![ShallowThoughts's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShallowThoughts&theme=dracula&custom_title=ShallowThoughts的心电图&radius=10)
