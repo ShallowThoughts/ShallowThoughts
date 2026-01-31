@@ -23,7 +23,6 @@
 - **图床**: [https://image.lxixi.top](https://image.lxixi.top)
 - **短链接**: [https://url.lxixi.top](https://url.lxixi.top)
 - **API接口**: [https://api.lxixi.top](https://api.lxixi.top)
-- **AI助手**: [https://ai.lxixi.top](https://ai.lxixi.top)
 ### 💞 社交统计
 
 <div align="center">
