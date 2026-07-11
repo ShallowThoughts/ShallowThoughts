@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffb7d5,50:c7d2fe,100:8bd3ff&text=ShallowThoughts&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Designer%20%7C%20Anime%20%26%20Game%20Lover%20%7C%20Gentle%20Little%20Universe&descAlignY=58&descSize=16" alt="ShallowThoughts Banner" />
+<img src="./assets/profile-header.svg" alt="ShallowThoughts profile banner" />
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Role&message=Designer&color=ff8fbd&style=for-the-badge" alt="Role Designer" />
@@ -8,8 +8,6 @@
   <a href="https://lxixi.top"><img src="https://img.shields.io/badge/Blog-lxixi.top-7dd3fc?style=for-the-badge" alt="Blog" /></a>
   <a href="https://t.me/convention520"><img src="https://img.shields.io/badge/Chat-Telegram-a78bfa?style=for-the-badge" alt="Telegram" /></a>
 </p>
-
-<img src="https://moe-counter.glitch.me/get/@:ShallowThoughts?theme=rule34" alt="Profile views" />
 
 </div>
 
