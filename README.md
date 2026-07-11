@@ -1,31 +1,43 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="ShallowThoughts profile banner" />
+<!-- 上传 outputs/assets/profile-header.png 到你的图床后，把下面的 URL 替换成图床直链 -->
+<img src="https://image.lxixi.top/i/2026/07/12/6a52d3dfd6a3a.png" alt="ShallowThoughts profile banner" width="100%" />
+
+<h1>🌸 你好呀，我是 ShallowThoughts</h1>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Role&message=Designer&color=ff8fbd&style=for-the-badge" alt="Role Designer" />
-  <img src="https://img.shields.io/static/v1?label=Location&message=Henan&color=f6ad55&style=for-the-badge" alt="Location Henan" />
-  <a href="https://lxixi.top"><img src="https://img.shields.io/badge/Blog-lxixi.top-7dd3fc?style=for-the-badge" alt="Blog" /></a>
-  <a href="https://t.me/convention520"><img src="https://img.shields.io/badge/Chat-Telegram-a78bfa?style=for-the-badge" alt="Telegram" /></a>
+  <kbd>Designer</kbd>
+  <kbd>RiverXILee</kbd>
+  <kbd>Henan</kbd>
+  <kbd>Anime Lover</kbd>
+  <kbd>Game Lover</kbd>
+</p>
+
+<p>
+  <a href="https://lxixi.top">总站</a> ·
+  <a href="https://home.lxixi.top">博客</a> ·
+  <a href="https://ai.lxixi.top">AI Web</a> ·
+  <a href="https://dashboard.lxixi.top">Live Dashboard</a> ·
+  <a href="https://status.lxixi.top">服务状态</a>
 </p>
 
 </div>
 
 ---
 
-## 🌸 你好呀，我是 ShallowThoughts
+## ✨ 关于我
 
-> 热爱设计、二次元和游戏。慢热社恐，喜欢可爱温柔的事物。<br>
-> 常玩 CSGO 和燕云十六声。卑微打工人，在线卑微~ 😌
+热爱设计、二次元和游戏。慢热社恐，喜欢可爱温柔的东西。  
+常玩 CSGO 和燕云十六声。卑微打工人，在线卑微~ 😌
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🎨 关于我</h3>
+      <h3>🎨 设计偏好</h3>
       <ul>
-        <li>喜欢把界面做得更清爽、更可爱、更有呼吸感</li>
-        <li>偏爱温柔色彩、柔和视觉和一点点二次元氛围</li>
-        <li>正在现实打工与精神摸鱼之间反复横跳</li>
+        <li>喜欢干净、柔和、有呼吸感的界面</li>
+        <li>偏爱温柔色彩、可爱细节和轻量视觉层次</li>
+        <li>愿望是把日常工具也做得更顺眼一点</li>
       </ul>
     </td>
     <td width="50%">
@@ -33,48 +45,95 @@
       <ul>
         <li>CSGO：紧张刺激，但枪法随缘</li>
         <li>燕云十六声：江湖很好，打工人也想仗剑天涯</li>
-        <li>喜欢可爱、温柔、有细节的小东西</li>
+        <li>二次元、游戏、折腾小服务和个人网站</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 🔗 Link Start
+## 🧭 网址导航
 
-| 类型 | 入口 |
+### 常用入口
+
+| 类型 | 地址 | 说明 |
+| --- | --- | --- |
+| 🌐 总站 | [lxixi.top](https://lxixi.top) | RiverXILee 的主入口 |
+| 🏠 博客 | [home.lxixi.top](https://home.lxixi.top) | 文章与个人记录 |
+| 🤖 AI Web | [ai.lxixi.top](https://ai.lxixi.top) | AI 工具入口 |
+| 📊 Live Dashboard | [dashboard.lxixi.top](https://dashboard.lxixi.top) | 实时看板 |
+| 🟢 服务状态 | [status.lxixi.top](https://status.lxixi.top) | 服务在线状态 |
+| 🐙 GitHub | [github.com/ShallowThoughts](https://github.com/ShallowThoughts) | 代码与项目 |
+| 💬 Telegram | [t.me/convention520](https://t.me/convention520) | 联系我 |
+| 📮 邮箱 | [lihongxi1314@gmail.com](mailto:lihongxi1314@gmail.com) | Email |
+
+### 工具与服务
+
+| 类型 | 地址 | 说明 |
+| --- | --- | --- |
+| ⚙️ API / 图片接口 | [api.lxixi.top](https://api.lxixi.top) | 接口服务 |
+| 🖼️ 图床 | [image.lxixi.top](https://image.lxixi.top) | 图片服务 |
+| 🔗 短链接 | [url.lxixi.top](https://url.lxixi.top) | 短链接服务 |
+| 🗄️ NAS | [nas.lxixi.top](https://nas.lxixi.top) | NAS 入口 |
+| 📦 Sub-Store | [sub-store.lxixi.top](https://sub-store.lxixi.top) | Sub-Store 服务 |
+
+<details>
+<summary>更多域名记录</summary>
+
+### 其他 lxixi.top 子域名
+
+| 地址 | 备注 |
 | --- | --- |
-| 📮 邮箱 | [lihongxi1314@gmail.com](mailto:lihongxi1314@gmail.com) |
-| 🐙 GitHub | [github.com/ShallowThoughts](https://github.com/ShallowThoughts) |
-| 💬 Telegram | [t.me/convention520](https://t.me/convention520) |
-| 🖼️ 图床 | [image.lxixi.top](https://image.lxixi.top) |
-| 🔗 短链接 | [url.lxixi.top](https://url.lxixi.top) |
-| ⚙️ API 接口 | [api.lxixi.top](https://api.lxixi.top) |
+| [ag.lxixi.top](https://ag.lxixi.top) | 备用 / 项目入口 |
+| [yyssl.lxixi.top](https://yyssl.lxixi.top) | 备用 / 项目入口 |
+| [cx.lxixi.top](https://cx.lxixi.top) | 备用 / 项目入口 |
+| [新建.lxixi.top](https://xn--b0t52m.lxixi.top) | Punycode：`xn--b0t52m.lxixi.top` |
+| `ling.lxixi.top` | 可能已停用 |
+| `all.lxixi.top` | 可能已停用 |
+| `ch.lxixi.top` | 历史 DNS 记录 |
+| `hk.lxixi.top` | 历史 DNS 记录 |
 
-## ✨ Preference
+### 其他独立域名
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UI-Soft%20%26%20Cute-ffb7d5?style=flat-square" alt="Soft and Cute UI" />
-  <img src="https://img.shields.io/badge/Design-Gentle%20Details-c4b5fd?style=flat-square" alt="Gentle Details" />
-  <img src="https://img.shields.io/badge/Anime-Lover-f9a8d4?style=flat-square" alt="Anime Lover" />
-  <img src="https://img.shields.io/badge/Game-CSGO%20%7C%20%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0-93c5fd?style=flat-square" alt="Games" />
-</p>
+| 地址 | 备注 |
+| --- | --- |
+| [ybtlxixi.top](https://ybtlxixi.top) | 独立一级域名 |
+| [sbtlxixi.top](https://sbtlxixi.top) | 独立一级域名 |
+| `pbtlxixi.top` | 可能已停用 |
+| `xn--eqy03glxixi.top` | Punycode 中文域名，编码记录可能存在异常 |
 
-## 💞 GitHub Stats
+### 已转让 / 旧域名
 
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ShallowThoughts&custom_title=ShallowThoughts%20Stats&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=ffb7d5&icon_color=8bd3ff" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowThoughts&layout=compact&theme=react&show_icons=true&hide_border=true&langs_count=8&bg_color=0D1117&title_color=ffb7d5" alt="Top languages" />
-</div>
+| 地址 | 备注 |
+| --- | --- |
+| `lxixi.online` | 2026-06-02 已转让 |
+| `www.lxixi.online` | 历史使用记录 |
 
-## 🔥 Activity
+</details>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShallowThoughts&theme=dracula&custom_title=ShallowThoughts%20Activity%20Graph&radius=12&hide_border=true" alt="ShallowThoughts GitHub activity graph" />
-</div>
+## 💗 偏好
+
+```text
+UI        Soft / Cute / Clean
+Design    Gentle details / Clear hierarchy / Breathing space
+Anime     可爱、温柔、治愈
+Games     CSGO / 燕云十六声
+Status    打工中，也在折腾自己的小宇宙
+```
+
+## 📌 GitHub
+
+这里不再使用第三方统计图片，避免加载失败。  
+想看项目和动态的话，可以直接来这里：
+
+- GitHub 首页：[github.com/ShallowThoughts](https://github.com/ShallowThoughts)
+- 个人总站：[lxixi.top](https://lxixi.top)
+- 服务状态：[status.lxixi.top](https://status.lxixi.top)
 
 ---
 
 <div align="center">
-  <p>感谢你的访问！愿你今天也遇到一点可爱的事情。🌸</p>
-  <p><sub>If you like this profile, feel free to leave a star.</sub></p>
+
+感谢你的访问。愿你今天也遇到一点可爱的事情。🌸
+
 </div>
+
