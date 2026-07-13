@@ -61,7 +61,7 @@
 | 🏠 博客 | [home.lxixi.top](https://home.lxixi.top) | 文章与个人记录 |
 | 🤖 AI Web | [ai.lxixi.top](https://ai.lxixi.top) | AI 工具入口 |
 | 📊 Live Dashboard | [dashboard.lxixi.top](https://dashboard.lxixi.top) | 实时看板 |
-| 🟢 服务状态 | [status.lxixi.top](https://status.lxixi.top) | 服务在线状态 |
+| 🟢 服务状态 | [status.lxixi.top](https://dashboard.lxixi.top) | 服务在线状态 |
 | 🐙 GitHub | [github.com/ShallowThoughts](https://github.com/ShallowThoughts) | 代码与项目 |
 | 💬 Telegram | [t.me/convention520](https://t.me/convention520) | 联系我 |
 | 📮 邮箱 | [lihongxi1314@gmail.com](mailto:lihongxi1314@gmail.com) | Email |
@@ -74,7 +74,6 @@
 | 🖼️ 图床 | [image.lxixi.top](https://image.lxixi.top) | 图片服务 |
 | 🔗 短链接 | [url.lxixi.top](https://url.lxixi.top) | 短链接服务 |
 | 🗄️ NAS | [nas.lxixi.top](https://nas.lxixi.top) | NAS 入口 |
-| 📦 Sub-Store | [sub-store.lxixi.top](https://sub-store.lxixi.top) | Sub-Store 服务 |
 
 <details>
 <summary>更多域名记录</summary>
